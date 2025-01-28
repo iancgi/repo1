@@ -13,6 +13,7 @@ sudo apt install -y openjdk-17-jre
 
 sudo systemctl status jenkins
 
+https://github.com/QA-Instructor/lbg-vat-calculator
 https://github.com/TheEarlOfGray/simpleflaskapp.git
 
 sudo apt install python3-pip
