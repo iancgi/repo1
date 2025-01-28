@@ -12,3 +12,10 @@ sudo apt install -y openjdk-17-jre
 
 
 sudo systemctl status jenkins
+
+https://github.com/TheEarlOfGray/simpleflaskapp.git
+
+sudo apt install python3-pip
+
+pip install -r requirements.txt
+python3 app.py
